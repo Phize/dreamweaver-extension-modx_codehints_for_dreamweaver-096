@@ -2,7 +2,7 @@
   <author name="Phize" />
 
   <products>
-    <product name="Dreamweaver" version="8" primary="true" />
+    <product name="Dreamweaver" version="6" primary="true" />
   </products>
 
   <description>
@@ -20,7 +20,7 @@ http://phize.net ]]>
 
   <files>
     <file source="CodeHints/MODxCodeHints.xml" destination="$dreamweaver/configuration/CodeHints" />
-    <file source="Objects/MODxCodeHints/MODx CodeHints.png" destination="$dreamweaver/configuration/Objects/MODxCodeHints" />
+    <file source="Objects/MODxCodeHints/CodeHints.png" destination="$dreamweaver/configuration/Objects/MODxCodeHints" />
   </files>
 
   <configuration-changes>
