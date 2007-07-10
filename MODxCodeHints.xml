@@ -1,5 +1,5 @@
 <codehints xmlns:MMString="http://www.macromedia.com/schemes/data/string/">
-  <menugroup MMString:name="MODx Codes" enabled="true" id="MODx_">
+  <menugroup MMString:name="MODx Codes" enabled="true" id="MODx_CodeHints">
     <description>
       <![CDATA[ When you type a '[(', '[^', '[*', '[[' or '[!', '[+', '[~', a drop-down menu shows a list of MODx codes. ]]>
     </description>
@@ -126,8 +126,46 @@
 
 
 
-    <menu pattern="[[/[!" forcedPattern="]]/!]" patternseparator="/" doctypes="HTML, DWTemplate" description="Snippets">
-      <menuitem label="Ditto" value="Ditto" description="" />
+    <menu pattern="[[" forcedPattern="]]" patternseparator="/" doctypes="HTML, DWTemplate" description="Snippets">
+      <menuitem label="[[AjaxSearch]]" value="AjaxSearch]]" description="" />
+      <menuitem label="[[Breadcrumbs]]" value="Breadcrumbs]]" description="" />
+      <menuitem label="[[Ditto]]" value="Ditto]]" description="" />
+      <menuitem label="[[eForm]]" value="eForm]]" description="" />
+      <menuitem label="[[FirstChildRedirect]]" value="FirstChildRedirect]]" description="" />
+      <menuitem label="[[Jot]]" value="Jot]]" description="" />
+      <menuitem label="[[ListIndexer]]" value="ListIndexer]]" description="" />
+      <menuitem label="[[MemberCheck]]" value="MemberCheck]]" description="" />
+      <menuitem label="[[NewsPublisher]]" value="NewsPublisher]]" description="" />
+      <menuitem label="[[Personalize]]" value="Personalize]]" description="" />
+      <menuitem label="[[pieX]]" value="pieX]]" description="" />
+      <menuitem label="[[Reflect]]" value="Reflect]]" description="" />
+      <menuitem label="[[UltimateParent]]" value="UltimateParent]]" description="" />
+      <menuitem label="[[Wayfinder]]" value="Wayfinder]]" description="" />
+      <menuitem label="[[WebChangePwd]]" value="WebChangePwd]]" description="" />
+      <menuitem label="[[WebLogin]]" value="WebLogin]]" description="" />
+      <menuitem label="[[WebSignup]]" value="WebSignup]]" description="" />
+    </menu>
+
+
+
+    <menu pattern="[!" forcedPattern="!]" patternseparator="/" doctypes="HTML, DWTemplate" description="Snippets">
+      <menuitem label="[!AjaxSearch!]" value="AjaxSearch!]" description="" />
+      <menuitem label="[!Breadcrumbs!]" value="Breadcrumbs!]" description="" />
+      <menuitem label="[!Ditto!]" value="Ditto!]" description="" />
+      <menuitem label="[!eForm!]" value="eForm!]" description="" />
+      <menuitem label="[!FirstChildRedirect!]" value="FirstChildRedirect!]" description="" />
+      <menuitem label="[!Jot!]" value="Jot!]" description="" />
+      <menuitem label="[!ListIndexer!]" value="ListIndexer!]" description="" />
+      <menuitem label="[!MemberCheck!]" value="MemberCheck!]" description="" />
+      <menuitem label="[!NewsPublisher!]" value="NewsPublisher!]" description="" />
+      <menuitem label="[!Personalize!]" value="Personalize!]" description="" />
+      <menuitem label="[!pieX!]" value="pieX!]" description="" />
+      <menuitem label="[!Reflect!]" value="Reflect!]" description="" />
+      <menuitem label="[!UltimateParent!]" value="UltimateParent!]" description="" />
+      <menuitem label="[!Wayfinder!]" value="Wayfinder!]" description="" />
+      <menuitem label="[!WebChangePwd!]" value="WebChangePwd!]" description="" />
+      <menuitem label="[!WebLogin!]" value="WebLogin!]" description="" />
+      <menuitem label="[!WebSignup!]" value="WebSignup!]" description="" />
     </menu>
 
 
