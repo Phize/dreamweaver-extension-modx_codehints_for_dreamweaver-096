@@ -152,6 +152,7 @@
       <menuitem label="[~[(site_start)]~]" value="[(site_start)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~[(site_unavailable_page)]~]" value="[(site_unavailable_page)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~[(unauthorized_pagev)]~]" value="[(unauthorized_pagev)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~0~]" value="0~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~1~]" value="1~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~2~]" value="2~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~3~]" value="3~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -266,7 +267,6 @@
       <menuitem label="[[MemberCheck]]" value="MemberCheck]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[[NewsPublisher]]" value="NewsPublisher]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[[Personalize]]" value="Personalize]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[[pieX]]" value="pieX]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[[Reflect]]" value="Reflect]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[[UltimateParent]]" value="UltimateParent]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[[Wayfinder]]" value="Wayfinder]]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -288,7 +288,6 @@
       <menuitem label="[!MemberCheck!]" value="MemberCheck!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[!NewsPublisher!]" value="NewsPublisher!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[!Personalize!]" value="Personalize!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[!pieX!]" value="pieX!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[!Reflect!]" value="Reflect!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[!UltimateParent!]" value="UltimateParent!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[!Wayfinder!]" value="Wayfinder!]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
