@@ -1,4 +1,4 @@
-<macromedia-extension name="MODx CodeHints" version="1.0.0" type="suite" requires-restart="true">
+<macromedia-extension name="MODx CodeHints for Dreamweaver" version="1.0.0" type="suite" requires-restart="true">
   <author name="Phize" />
 
   <products>
@@ -6,20 +6,21 @@
   </products>
 
   <description>
-    <![CDATA[ MODx CodeHints for Dreamweaver 1.0.0 ]]>
+    <![CDATA[ MODx CodeHints for Dreamweaver ]]>
   </description>
 
   <ui-access>
-    <![CDATA[ When you type a '[(', '[^', '[*', '[[' or '[!', '[+', '[~', a drop-down menu shows a list of MODx codes. ]]>
+    <![CDATA[ When you type a '[(', '[^', '[*', '[+', '[~', '[[' or '[!', a drop-down menu shows a list of MODx codes. ]]>
   </ui-access>
 
   <license-agreement>
     <![CDATA[ Copyright(C) 2007 Phize
-Author URI: http://phize.net ]]>
+http://phize.net ]]>
   </license-agreement>
 
   <files>
-    <file source="CodeHints/MODxHints.xml" destination="$dreamweaver/configuration/CodeHints" />
+    <file source="CodeHints/MODxCodeHints.xml" destination="$dreamweaver/configuration/CodeHints" />
+    <file source="Objects/MODxCodeHints/MODx CodeHints.png" destination="$dreamweaver/configuration/Objects/MODxCodeHints" />
   </files>
 
   <configuration-changes>
