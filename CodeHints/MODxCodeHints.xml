@@ -154,14 +154,6 @@
       <menuitem label="[~[(unauthorized_pagev)]~]" value="[(unauthorized_pagev)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~0~]" value="0~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~1~]" value="1~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~2~]" value="2~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~3~]" value="3~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~4~]" value="4~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~5~]" value="5~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~6~]" value="6~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~7~]" value="7~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~8~]" value="8~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~9~]" value="9~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~10~]" value="10~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~11~]" value="11~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~12~]" value="12~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -172,6 +164,7 @@
       <menuitem label="[~17~]" value="17~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~18~]" value="18~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~19~]" value="19~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~2~]" value="2~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~20~]" value="20~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~21~]" value="21~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~22~]" value="22~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -182,6 +175,7 @@
       <menuitem label="[~27~]" value="27~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~28~]" value="28~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~29~]" value="29~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~3~]" value="3~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~30~]" value="30~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~31~]" value="31~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~32~]" value="32~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -192,6 +186,7 @@
       <menuitem label="[~37~]" value="37~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~38~]" value="38~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~39~]" value="39~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~4~]" value="4~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~40~]" value="40~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~41~]" value="41~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~42~]" value="42~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -202,6 +197,7 @@
       <menuitem label="[~47~]" value="47~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~48~]" value="48~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~49~]" value="49~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~5~]" value="5~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~50~]" value="50~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~51~]" value="51~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~52~]" value="52~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -212,6 +208,7 @@
       <menuitem label="[~57~]" value="57~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~58~]" value="58~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~59~]" value="59~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~6~]" value="6~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~60~]" value="60~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~61~]" value="61~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~62~]" value="62~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -222,6 +219,7 @@
       <menuitem label="[~67~]" value="67~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~68~]" value="68~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~69~]" value="69~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~7~]" value="7~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~70~]" value="70~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~71~]" value="71~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~72~]" value="72~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -232,6 +230,7 @@
       <menuitem label="[~77~]" value="77~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~78~]" value="78~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~79~]" value="79~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~8~]" value="8~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~80~]" value="80~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~81~]" value="81~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~82~]" value="82~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -242,6 +241,7 @@
       <menuitem label="[~87~]" value="87~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~88~]" value="88~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~89~]" value="89~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~9~]" value="9~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~90~]" value="90~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~91~]" value="91~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~92~]" value="92~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
