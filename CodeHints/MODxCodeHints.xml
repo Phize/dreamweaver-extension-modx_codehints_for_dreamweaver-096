@@ -86,7 +86,7 @@
 
 
     <menu pattern="[^" forcedPattern="^]" patternseparator="/" doctypes="HTML, DWTemplate" description="Timing">
-      <menuitem label="[^qt^]" value="qt^]" description="" />
+      <menuitem label="[^qt^]" value="qt^]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[^q^]" value="q^]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[^p^]" value="p^]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[^t^]" value="t^]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -101,9 +101,18 @@
       <menuitem label="[*content*]" value="content*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*contentdispo*]" value="contentdispo*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*contentType*]" value="contentType*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*createdby*]" value="createdby*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*createdon*]" value="createdon*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*deleted*]" value="deleted*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*deletedby*]" value="deletedby*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*deletedon*]" value="deletedon*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*description*]" value="description*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*document_groups*]" value="document_groups*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*donthit*]" value="donthit*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*editedby*]" value="editedby*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*editedon*]" value="editedon*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*haskeywords*]" value="haskeywords*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*hasmetatags*]" value="hasmetatags*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*hidemenu*]" value="hidemenu*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*id*]" value="id*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*introtext*]" value="introtext*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -112,10 +121,12 @@
       <menuitem label="[*link_attributes*]" value="link_attributes*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*longtitle*]" value="longtitle*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*menuindex*]" value="menuindex*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[*menutitle*]" value="menutitl*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*menutitle*]" value="menutitle*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*metatags*]" value="metatags*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*pagetitle*]" value="pagetitle*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*parent*]" value="parent*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*privateweb*]" value="privateweb*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[*privatemgr*]" value="privatemgr*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*pub_date*]" value="pub_date*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*published*]" value="published*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*richtext*]" value="richtext*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
@@ -124,7 +135,6 @@
       <menuitem label="[*template*]" value="template*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*type*]" value="type*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[*unpub_date*]" value="unpub_date*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[*variablesmodified*]" value="variablesmodified*]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
     </menu>
 
 
@@ -151,7 +161,7 @@
       <menuitem label="[~[*parent*]~]" value="[*parent*]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~[(site_start)]~]" value="[(site_start)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~[(site_unavailable_page)]~]" value="[(site_unavailable_page)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
-      <menuitem label="[~[(unauthorized_pagev)]~]" value="[(unauthorized_pagev)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
+      <menuitem label="[~[(unauthorized_page)]~]" value="[(unauthorized_page)]~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~0~]" value="0~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~1~]" value="1~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
       <menuitem label="[~10~]" value="10~]" icon="Objects/MODxCodeHints/CodeHints.png" description="" />
